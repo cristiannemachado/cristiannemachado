@@ -3,23 +3,36 @@
 
 🙂 Olá, me chamo Cristiane Machado!
 
-💻 Técnico Especialista em Cibersegurança (Nível 5) em formação pelo IEFP.
-
-🚀 Apaionada por tecnologia, buscando evoluir através de bootcamps e cursos na DIO.
-
-🎯 Em constante evolução para me tornar um profissional de TI cada vez mais completo.
-
-📚 Acredito no aprendizado contínuo e no compartilhamento de conhecimento.
+- 💻 Técnico Especialista em Cibersegurança (Nível 5) em formação pelo IEFP.
+- 🚀 Apaionada por tecnologia, buscando evoluir através de bootcamps e cursos na DIO.
+- 🎯 Em constante evolução para me tornar um profissional de TI cada vez mais completo.
+- 📚 Acredito no aprendizado contínuo e no compartilhamento de conhecimento.
 
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/cristiane-machado-7a11a1190/)
 
 ------
 
-### Minhas Tecnologias
+### Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
- 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" width="40" height="40"/>
+
 -----------------
+
+### Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"width="40" height="40" />         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+          
+          
+------------------
+
 
 |Cursos | Certificados |
 |------- |--------------|
