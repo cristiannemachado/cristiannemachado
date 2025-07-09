@@ -31,7 +31,7 @@
 |Introduction to Packet Tracer |[Certificado](https://www.credly.com/earner/earned/badge/2ef757c6-0b8c-44ec-9fb6-7bd7c929fed4) |
 |Introduction to Ethical Hacker |[Certificado](https://www.credly.com/earner/earned/badge/72812ba8-ed7f-4337-8dbd-01b3424d119b) |
 |Microsoft Office Specialist: Microsoft Access Expert (Office 2019) |[Certificado](https://www.credly.com/earner/earned/badge/7b5146c2-2888-4b29-a594-eebe94ae5716) |
-|                                     |
+
 
 
 <div>
