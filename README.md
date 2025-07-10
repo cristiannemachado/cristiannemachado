@@ -3,10 +3,10 @@
 
 🙂 Olá, me chamo Cristiane Machado!
 
-- 💻 Técnico Especialista em Cibersegurança (Nível 5) em formação pelo IEFP.
-- 🚀 Apaionada por tecnologia, buscando evoluir através de bootcamps e cursos na DIO.
-- 🎯 Em constante evolução para me tornar um profissional de TI cada vez mais completo.
-- 📚 Acredito no aprendizado contínuo e no compartilhamento de conhecimento.
+💻 Técnico Especialista em Cibersegurança (Nível 5) em formação pelo IEFP.  
+🚀 Apaionada por tecnologia, buscando evoluir através de bootcamps e cursos na DIO.  
+🎯 Em constante evolução para me tornar um profissional de TI cada vez mais completo.  
+📚 Acredito no aprendizado contínuo e no compartilhamento de conhecimento.
 
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/cristiane-machado-7a11a1190/)
 
