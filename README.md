@@ -42,7 +42,6 @@
   </a>
 </div>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiannemachado&layout=compact&langs_count=7&theme=react)
 
 
 
