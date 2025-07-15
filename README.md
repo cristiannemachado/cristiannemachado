@@ -54,13 +54,8 @@
 
 
 
-<div width="100%" align="center" justify="center">  
-  <a href="https://github.com/cristiannemachado">
-    <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=cristiannemachado&theme=dracula" /> 
-    <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiannemachado&layout=compact&theme=dracula" />
-  </a>
-</div>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristiannemachado&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiannemachado&layout=compact&langs_count=7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 
