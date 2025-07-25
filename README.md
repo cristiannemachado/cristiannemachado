@@ -53,11 +53,9 @@
 |Microsoft Office Specialist: Microsoft Access Expert (Office 2019) |[Certificado](https://www.credly.com/earner/earned/badge/7b5146c2-2888-4b29-a594-eebe94ae5716)   
 
 
-<div align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=cristiannemachado&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" style="height: 195px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiannemachado&layout=compact&langs_count=7&theme=transparent&bg_color=4B0082&border_color=FFD700&show_icons=true&icon_color=FFD700&title_color=FFD700&text_color=FFF" style="height: 195px;" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristiannemachado&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiannemachado&layout=compact&langs_count=7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-</div>
 
 
 
