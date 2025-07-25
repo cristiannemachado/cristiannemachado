@@ -10,7 +10,7 @@
 
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/cristiane-machado-7a11a1190/)
 
-------
+
 
 ## Linguagens de Programação
 
