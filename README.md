@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Bem vindo(a)! Eu sou Cristiane Machado</h1> 
 </div>
-Olá! Sou uma Desenvolvedora Frontend Júnior com base sólida em lógica de programação e fundamentos de cibersegurança, apaixonada por tecnologia e por construir soluções eficientes, seguras e intuitivas.
+Olá! Sou uma Desenvolvedora Frontend  com base sólida em lógica de programação e fundamentos de cibersegurança, apaixonada por tecnologia e por construir soluções eficientes, seguras e intuitivas.
 
 Tenho experiência prática com desenvolvimento frontend em projetos educacionais, versionamento de código com Git e GitHub, além de conhecimentos em segurança digital. Trabalho com linguagens como **HTML, CSS, JavaScript, Python, C e C++**, e estou em constante aprendizado de novas ferramentas e frameworks.
 
