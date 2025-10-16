@@ -8,7 +8,7 @@ Tenho experiência prática com desenvolvimento frontend em projetos educacionai
 Valorizo a combinação entre lógica, criatividade e boas práticas para desenvolver aplicações funcionais e bem estruturadas. Sou dedicada, curiosa e movida por desafios que impulsionam meu crescimento profissional.
 <br><br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,vscode,git,github,kali&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,vscode,git,github,kali&theme=dark" />
 </div>
 <br><br>
 <div align="center">  
