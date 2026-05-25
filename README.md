@@ -48,14 +48,11 @@ Dashboard web para visualização de hosts monitorizados e exposição de servi�
 
 ## 📈 GitHub Stats
 
-<div align="center">  
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cristiannemachado&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"/> 
-  
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiannemachado&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0"/>
-  
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristiannemachado&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiannemachado&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=cristiannemachado&theme=tokyonight)
 ---
 
 ## 📫 Contacto
