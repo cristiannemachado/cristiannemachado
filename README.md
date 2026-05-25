@@ -60,4 +60,4 @@ Dashboard web para visualização de hosts monitorizados e exposição de servi�
 
 ## 📫 Contacto
 
-- LinkedIn: :contentReference[oaicite:1]{index=1}
+- LinkedIn: [Cristiane Machado](https://linkedin.com/in/cristianne-machado)
