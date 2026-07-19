@@ -1,60 +1,147 @@
-# 👋 Olá, eu sou Cristiane Machado
+# Hi, I'm Cristiane Machado 👋
 
-💻 Técnica Especialista em Cibersegurança    
+### Junior Cybersecurity | SOC & Security Monitoring | Python | Network Security
 
-Sou apaixonada por tecnologia e segurança da informação, com foco em pentest, ethical hacking, análise de vulnerabilidades e automação com Python.
+Technical Specialist in Cybersecurity based in Portugal, with a strong interest in Security Operations, network security, vulnerability analysis, and security automation with Python.
 
-Concluí a formação de Técnica Especialista em Cibersegurança pelo IEFP e mantenho prática contínua em ambientes hands-on através de labs, CTFs e desafios no TryHackMe.
-
-Atualmente estou focada em desenvolver projetos práticos nas áreas de:
-
-- 🔐 Pentest & Ethical Hacking
-- 🛡️ Security Operations (SOC)
-- 🌐 Segurança de Redes
-- 🐍 Automação com Python
-- 📊 Monitorização e análise de vulnerabilidades
-
-🎯 Procuro oportunidade entry-level em Cibersegurança como:
-
-- SOC Analyst Junior
-- Security Analyst
-- Pentest Junior
-- Vulnerability Analyst
-
-Gosto de unir lógica, curiosidade e prática para construir soluções úteis, aprender continuamente e contribuir para ambientes digitais mais seguros.
+I am building my professional experience through hands-on cybersecurity labs, technical projects, and continuous learning.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🛡️ About Me
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,linux,kali,git,github,html,css,vscode&theme=dark" />
-</div>
+I am a Technical Specialist in Cybersecurity with a strong foundation in:
+
+- Security Operations (SOC)
+- Security Monitoring
+- Network Security
+- Vulnerability Analysis
+- Security Testing
+- Python Automation
+
+I enjoy investigating technical problems, understanding how systems and networks work, and building practical solutions to support security analysis and monitoring.
+
+My current focus is developing hands-on projects related to **Blue Team, SOC operations, security monitoring, network security, and cybersecurity automation**.
+
+🎓 **Technical Specialist in Cybersecurity — IEFP**  
+📊 **Final grade: 17/20**
 
 ---
 
-## 📌 Projetos em destaque
+## 🔐 Cybersecurity Focus
 
-- 🔎 Network Security Audit Lab  
-Scanner de auditoria de rede com Python para identificação de portas abertas e geração de relatórios.
-
-- 🛡️ Mini SOC Log Monitor  
-Monitorização contínua de logs com deteção de eventos suspeitos e alertas em tempo real.
-
-- 📊 Cyber Vulnerability Dashboard  
-Dashboard web para visualização de hosts monitorizados e exposição de serviços.
+- Security Operations (SOC)
+- Blue Team Fundamentals
+- Log Monitoring & Analysis
+- Threat Detection
+- Network Security
+- Vulnerability Assessment
+- Security Monitoring
+- Security Testing
+- Security Reporting
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Technologies & Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristiannemachado&show_icons=true&theme=tokyonight)
+### Cybersecurity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiannemachado&layout=compact&theme=tokyonight)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge&logo=tenable&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cristiannemachado&theme=tokyonight)
+### Programming & Web
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
 ---
 
-## 📫 Contacto
+## 🚀 Featured Cybersecurity Projects
 
-- LinkedIn: [Cristiane Machado](https://linkedin.com/in/cristianne-machado)
+### 🛡️ [Mini SOC Log Monitor](https://github.com/cristiannemachado/mini-soc-monitor)
+
+Python-based log monitoring system focused on Blue Team and SOC fundamentals.
+
+- Continuous log monitoring
+- Suspicious event detection
+- Real-time alerts
+- Basic incident analysis
+
+**Focus:** SOC Operations · Blue Team · Threat Detection
+
+---
+
+### 🌐 [Network Security Audit Lab](https://github.com/cristiannemachado/network-security-audit)
+
+Python-based network security audit tool for identifying open TCP ports and generating audit reports.
+
+- Port scanning
+- Open service identification
+- CSV report generation
+- Network security analysis
+
+**Focus:** Network Security · Security Assessment · Security Reporting
+
+---
+
+### 📊 [Cyber Vulnerability Dashboard](https://github.com/cristiannemachado/cyber-dashboard)
+
+Web dashboard developed with Python and Flask to visualize security audit results and network exposure.
+
+- Host monitoring
+- Open port visualization
+- Active service analysis
+- Security findings visualization
+
+**Focus:** Security Monitoring · Vulnerability Visualization · Python
+
+---
+
+## 📚 Continuous Learning
+
+I continuously develop my cybersecurity knowledge through:
+
+- Hands-on cybersecurity labs
+- TryHackMe rooms and challenges
+- Security projects
+- Network security practice
+- Python automation projects
+
+---
+
+## 🎯 Career Focus
+
+I am currently looking for **entry-level opportunities, internships, freelance projects, and junior roles in Cybersecurity and IT**.
+
+My areas of interest include:
+
+- Junior SOC Analyst
+- Cybersecurity Analyst
+- Security Operations
+- Vulnerability Analysis
+- Network Security
+- Cybersecurity Automation
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/cristianne-machado/)
+
+---
+
+> *Building practical cybersecurity projects, learning continuously, and growing one challenge at a time.* 🔐
